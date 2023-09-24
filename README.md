@@ -51,5 +51,5 @@ Contributions to this project are welcome. Feel free to fork the project, make i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)..
 Thanks @ Diana Gakuya DeeGakuya@gmail.com hire me
